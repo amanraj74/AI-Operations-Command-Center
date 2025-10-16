@@ -886,9 +886,9 @@ See [LICENSE](LICENSE) file for full details.
 
 ### **Team DeepLearners**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/amanraj74)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aman-jaiswal-05b962212/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:aerraj50@gmail.com)
 [![Demo](https://img.shields.io/badge/Demo_Video-Watch-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/your-demo)
 
 **Built for the Agents in Production Hackathon 2025**
