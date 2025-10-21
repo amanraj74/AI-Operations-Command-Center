@@ -18,6 +18,9 @@
 
 ---
 
+From Team - DeepLearners
+
+
 ## 📖 Overview
 
 The **AI Operations Command Center** is an enterprise-grade autonomous system designed to eliminate operational chaos in small and medium businesses. By continuously monitoring multiple communication channels, intelligently prioritizing signals, and orchestrating automated responses, it ensures no critical issue goes unnoticed.
@@ -1372,11 +1375,12 @@ See [LICENSE](LICENSE) file for full details.
 <div align="center">
 
 ### **Solo Developer**
+From DeepLearners
 
-**Aman Raj** - Full Stack AI Engineer
+**Aman Jaiswal** -  AI/ML Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-amanraj74-181717?style=for-the-badge&logo=github)](https://github.com/amanraj74)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman_Raj-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aman-jaiswal-05b962212/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman_Jaiswal-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aman-jaiswal-05b962212/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:aerraj50@gmail.com)
 
 **Project Repository:** [github.com/amanraj74/AI-Operations-Command-Center](https://github.com/amanraj74/AI-Operations-Command-Center)
