@@ -2,6 +2,7 @@
 FastAPI webhook server for receiving signals and exposing APIs
 """
 from fastapi import FastAPI, HTTPException, BackgroundTasks, Depends
+from src.webhooks.dashboard import router as dashboard_router
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
@@ -23,6 +24,8 @@ app = FastAPI(
     version=settings.app_version,
     description="AI-powered operations command center with multi-tool orchestration"
 )
+
+app.include_router(dashboard_router)
 
 # Add CORS middleware
 app.add_middleware(
