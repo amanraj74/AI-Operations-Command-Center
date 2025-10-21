@@ -139,7 +139,7 @@ Where:
 
 [![AI Operations Command Center Demo](https://img.shields.io/badge/▶️_Watch_Demo-2_Minutes-red?style=for-the-badge&logo=youtube)](YOUR-ACTUAL-YOUTUBE-LINK)
 
-📹 **[Watch on YouTube](YOUR-ACTUAL-YOUTUBE-LINK)** | 📁 **[Download MP4](link-if-available)**
+📹 **[Watch on YouTube](https://drive.google.com/file/d/134xkt_w2rOXGMjXlR9Z2p_iubarM-S6l/view?usp=sharing)** | 📁 **[Download MP4](https://drive.google.com/file/d/134xkt_w2rOXGMjXlR9Z2p_iubarM-S6l/view?usp=sharing)**
 
 **Demo Highlights:**
 
