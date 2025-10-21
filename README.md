@@ -12,7 +12,7 @@
 
 *Monitors signals across Gmail, Sheets & Slack • Analyzes priority with intelligent rules • Orchestrates automated responses via Notion, Trello & Slack*
 
-[🎬 View Demo](#-demo-video) • [📖 Documentation](#-documentation) • [🚀 Quick Start](#-quick-start) • [🏗️ Architecture](#-architecture)
+[🎬 View Demo](https://drive.google.com/file/d/134xkt_w2rOXGMjXlR9Z2p_iubarM-S6l/view?usp=sharing) • [📖 Documentation](#-documentation) • [🚀 Quick Start](#-quick-start) • [🏗️ Architecture](#-architecture)
 
 </div>
 
